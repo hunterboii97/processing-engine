@@ -1,0 +1,5 @@
+{
+  "name": "Audio AlterFX",
+  "description": "An online audio processing tool to apply various effects and presets like reverb, pitch shifting, tempo change, and more. Upload your audio, tweak the settings, and download the altered version.",
+  "requestFramePermissions": []
+}
